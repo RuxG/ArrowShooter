@@ -5,5 +5,8 @@ In this application, the player controls an arrow and has to shoot at as many ba
 
 ![](game-demo.PNG)
 
+**Notes**
+* The main code of the application is in: "Source/Laboratoare/Tema1".
+* During this university project, I learned how to manualy create and work with 2D meshes and control the mouse. 
 
 
